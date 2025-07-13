@@ -1,5 +1,5 @@
 #'a' is used to append str in the file
-
+ 
 str = '\nThanks'
 
 open_file = open('text_file.txt','a')
