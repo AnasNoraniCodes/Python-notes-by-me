@@ -58,7 +58,10 @@ while(True):
         elif(c==0 and u == 1):
             print('You lose')    
         else:'Something went wrong.'
-    
+      
+
+    #Use patters intead of this logics if needed
+    #Basic practice is readibality of the code...
 
  
  
