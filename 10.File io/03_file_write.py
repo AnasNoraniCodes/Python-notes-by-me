@@ -2,13 +2,11 @@
 #we used 'w' for write in files
 
 file_data = '''
-            I'm deeply focused on mastering Python,
-            Git, and software development workflows.
-            With strong goals in Data Science and AI, 
-            I actively build projects like smart health apps 
-            and structured coding notes.'''
+           I'm Anas Norani, a passionate and self-driven
+           student currently pursuing ICS at Punjab Group of Colleges.
+           Thanks'''
 
-file = open('write_file.txt','w')
+file = open('text_file.txt','w')
 file.write(file_data)
 file.close()
 
