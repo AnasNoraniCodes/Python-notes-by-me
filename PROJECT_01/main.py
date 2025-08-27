@@ -33,12 +33,12 @@ while(True):
     #user str input to int like {1,-1,0}
     user_number = data_dict[user_choice_str]
 
-    c=computer_choice
-    u=user_number
-
     
     print(f'Your choice is {reverse_dict.get(user_number)} and computer choose {reverse_dict.get(computer_choice)}.\nSo,')
     
+    c=computer_choice
+    u=user_number
+
     if(c==u):
         print('Its a draw,play again...')
          
